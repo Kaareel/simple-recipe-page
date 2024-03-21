@@ -1,14 +1,14 @@
 # Recipe Page
 This project is a simple recipe page created using JavaScript, React, and Tailwind CSS. It allows users to view a specific recipe.
 
-# Netlify
+# Preview
 https://simplerecipepage.netlify.app
 
 ## Getting Started
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/recipe-page.git
+    git clone https://github.com/Kaareel/recipe-page.git
     ```
 2. **Change into the project directory:**
     ```bash
@@ -23,9 +23,6 @@ https://simplerecipepage.netlify.app
     npm start
     ```
  Open your browser and visit http://localhost:3000 to view the app.
-
-## Features
-View details of a specific recipe.
 
 ## Technologies Used
 - JavaScript
